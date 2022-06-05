@@ -9,7 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        texto.text = "A-Halo B-God of War                C-Star Wars D-Gears of War";
+        
     }
 
     // Update is called once per frame
@@ -17,19 +17,19 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.A))
         {
-            texto.text = "Bienvenido Jefe Maestro";
+            texto.text = "Bienvenido Jefe Maestro.";
         }
         if(Input.GetKeyDown(KeyCode.B))
         {
-            texto.text = "Los dioses del olimpo me han abandonado";
+            texto.text = "Los dioses del olimpo me han abandonado.";
         }
         if(Input.GetKeyDown(KeyCode.C))
         {
-            texto.text = "Luke, Yo soy tu padre";
+            texto.text = "Luke, Yo soy tu padre.";
         }
         if(Input.GetKeyDown(KeyCode.D))
         {
-            texto.text = "Que detalle";
+            texto.text = "Que detalle.";
         }
     }
 }//FIN DEL PROGRAMA
