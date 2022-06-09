@@ -26,5 +26,4 @@ public class Reproductor : MonoBehaviour
             indice++;
         }
     }
-    audioS.clip = ListaAudio[indice];
 }
