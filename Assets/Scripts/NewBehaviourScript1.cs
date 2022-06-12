@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Jesús Horacio Nolasco Gallegos
+//Jesus Horacio Nolasco Gallegos
 //Laura Gonzalez Sandoval
 
 public class NewBehaviourScript1 : MonoBehaviour
