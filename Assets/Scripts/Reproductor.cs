@@ -17,7 +17,6 @@ public class Reproductor : MonoBehaviour
 
         audioS.clip = ListaAudio[indice];
 
-        Debug.Log("Audio clip length :" + audioS.clip.length);
     }
 
     // Update is called once per frame
@@ -26,7 +25,23 @@ public class Reproductor : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
               indice++; 
+              if (indice >= ListaAudio.Length)
+              {
+                Debug.Log("Has llegado a la meta");
+                indice = ListaAudio.Length-1;
+              }
         }
+
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+              indice--; 
+              if (indice <= 0)
+              {
+                Debug.Log("Has regresado");
+                indice = 0;
+              }
+        }
+
         audioS.clip = ListaAudio[indice];
     }
 }
