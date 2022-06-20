@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: 6b0c2ad1179fae340b6d67b44b81f308
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armas medievales_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 683
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cfbcbeb5ccd94182afb7a4217b431
+      internalID: 585127598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 711
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa62a5363fa97d4fa01183fc100fc95
+      internalID: -1479319862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 685
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c91b8a02a46f4e8070084436b56f7
+      internalID: 1112737267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 714
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90a1ce15bea0343803255d29c2e734
+      internalID: 1820190857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 684
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfefeef2a499a54f9b44ee35b36c096
+      internalID: 1272782496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6caec12cb4747e478ea24c73dcf81a2
+      internalID: -2024731027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 712
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778e7ac888e62b499af96239b0a83aa
+      internalID: -546905996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb38ff76affaca46bb061f88eebb6b8
+      internalID: -900492740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 689
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395f00882caa4045ace08544be99307
+      internalID: -379824769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 683
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab88a63f6a368943bca9a4d290feeb3
+      internalID: 2143320787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 686
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b42cf695d54114a83b3de2798f56ed
+      internalID: 1950741321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 684
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b784a36db5d241b012b0a31a97aef
+      internalID: 1428482873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 617
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb166e392e946409ed088883f59745
+      internalID: -1124785082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 611
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8835f765180aac4ebffe1773666dc16
+      internalID: -1654942333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 614
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae559e907a9ed024cbad9bf9c6fda29a
+      internalID: -947849355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 610
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7c548ba58e134aa82a46758267d2e
+      internalID: 465615724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 610
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d2eaeb3260d9439481fc7281c908e
+      internalID: 1543749824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 616
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5226d0156644428700f45e9f075de
+      internalID: -1491398888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 613
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bc27fdc4ba3f44badff1b83d97cfeb
+      internalID: -904574801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 613
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ecc1727a181140935e999eb58104b
+      internalID: 442427191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 614
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5bb066b67da6d419c6b55f7638a66d
+      internalID: -658303711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 539
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9580d1cb626c42f4197dccb3139f6a41
+      internalID: 3444207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 535
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80135ca3b4f434690da08b7da0bd0a
+      internalID: -1976874284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 533
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56342ee769d054ebc5d06e08362832
+      internalID: -1315051451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 536
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d904a0defab94aa4544fb3a75fcb7
+      internalID: 104136531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 531
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e08551cc3c2c4daeea06ee68abefe
+      internalID: -1913989220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 537
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1daf5b9ae11fd49ab45278df706612
+      internalID: 46068555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_27
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 536
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550241f52e88b740906445b8c1ae5c5
+      internalID: -1843108486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 531
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58dd94b0d908d44be68e15a8450f8f
+      internalID: -1462374985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_29
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 535
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcad18c4720c4348ad5763cd7fbe071
+      internalID: -308462128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 470
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd419a5ecd018554f8bd9cca2309a2c3
+      internalID: -1997943954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd64d578d2144429d1304da05643f3
+      internalID: -403165282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d3bd0231398b4a868790218a69b4e
+      internalID: -397505248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 469
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0965c14722ba488ca100196cbb394
+      internalID: -430705398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 457
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca2b267019c5044beaf0002cc0b2be
+      internalID: -901400352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 489
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4359bb07ccccfe40bfb275636d6e19a
+      internalID: -1994672290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 456
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55804e5c70ee31e498d0c69ade00bc84
+      internalID: 479531782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb69dcefb989b4cba7f227a1ed30e2
+      internalID: 215496095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_38
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 463
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e26921acf1b90d4e9b747e673b0637e
+      internalID: -285427814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 463
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d449c466664d44817fc9acfc8ba6b
+      internalID: -1344758680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_40
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 467
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511283c1cc3bfe7458924b0354fe75b8
+      internalID: 140614089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f44b44c34722344baac714b2e3a95d8
+      internalID: -76481756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 392
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba891481f25ac041bf1d68663d7fa20
+      internalID: 1006818146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 394
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f2c29cc5a74f449e3e84221256368
+      internalID: 1870696554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5873e1b662e34468526b46372b7556
+      internalID: -1375494695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 387
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d03726c76da0d4aba0f911fc18d2ae
+      internalID: 863027200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 395
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc0bad3822a114d80bd88edfa3ae6e
+      internalID: -1111908236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 379
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9c09c2cc8b7d4abde981068a77e6b
+      internalID: -351447870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_48
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 410
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b455789a610eb04598a77b035a40c75
+      internalID: -724850223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 378
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77159931e6aade44e8ca82438ec3bafd
+      internalID: -1179943541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 413
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c7cc9dd3973d346bef87e8d2233d66
+      internalID: -1594448638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_51
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 380
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289263e7b84204d47a686703b9e2a3f1
+      internalID: 1072818985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 412
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5d85a9ffe856458a5dec3e98976bb
+      internalID: -1690942930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 316
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbddba26c6499a44881515f2841cded4
+      internalID: -820941381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 312
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15690ea13acbaa4483eb0bfab0dacdf
+      internalID: -1241375971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 313
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1993e3944f1544b8f954cc9524c41c
+      internalID: -1203419178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 311
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade72ffa7412da439c46571a2b05644
+      internalID: 1857918878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 309
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6815f6bb9eff4f9549019d44833bb
+      internalID: 1102623591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 314
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d7f748ad84644bafde550d6a52922
+      internalID: -587262823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 305
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e263fcb3475003449217a33ad9ae3b2
+      internalID: 1819947992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 337
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe511eebbd4f24aab53e0a2068230c
+      internalID: -212100092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_61
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 312
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77199ba88e68f44a200b5528cebc67
+      internalID: -477039500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_62
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 314
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502dfa6f3d84b014b9ac885018ce5957
+      internalID: 364273084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 239
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31880f09b822e4f4f8296aa547092af4
+      internalID: 114544275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 237
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff10223f5138841bd726c0e53cb237
+      internalID: 504257617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109983dde988f0442a0593ee2e15d7cb
+      internalID: -755310413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_66
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 231
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19dca684c376a44cbdc8daa7c591764
+      internalID: 1062649766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 231
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c691d1a4e527640aea0c8f98c67fee
+      internalID: -1694620041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 237
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c989f8f40bca1c4ca20f868a9f18c40
+      internalID: 1403895266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 219
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0181fb657e804e82e5d43ea17b420
+      internalID: 1737568894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80055d0ed96d4946ac08c862b92f747
+      internalID: -671505488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_71
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 260
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7b93607c9e1a47995d7fd7a6dd2be
+      internalID: -158044639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065cb6c324d504849841cd0efb2728cf
+      internalID: -819228120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_73
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 252
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d34ce1a41fdbe4fab32c1420662598
+      internalID: 1077725356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_74
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 225
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc4f1ce422ba44fbed3d03bce91c84
+      internalID: -28335057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_75
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 254
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2d70ede4c29344be1306ef7885dfd
+      internalID: 328414016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 157
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380ec2536debf44e940303d1a7000a3
+      internalID: 2104627896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df472bfd8ec2d8429a97a408554c640
+      internalID: 1426740202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 154
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4027fc692737145a82246d27a12787
+      internalID: 1573250944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1353a788fdbeef641af501a6dcc49788
+      internalID: -35298030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_80
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 157
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49299a56801a086489fc8cd8613e6dae
+      internalID: 791252898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_81
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 154
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b771060c383a4c49a0ae784ababdd7c
+      internalID: 1828718254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 156
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c488f880904964d839331206c42b8a
+      internalID: 583006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 155
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c559752ebf4c44aad4b54a982d1b9
+      internalID: -1799056167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 145
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431237a7f1c0d94e9ef36c45af70cfd
+      internalID: -607977557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_85
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 172
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66497f81e1aa141468e9a4b5eb7e9cfa
+      internalID: 910745280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c075ec3de94d4c85380019fbe3534
+      internalID: 702636967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1040c3b9687604994266ddb8b538f7
+      internalID: 903564841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378fd374e48f294a9ce5a9d592c5b17
+      internalID: -1828220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_89
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 74
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba082c7294a184b8a98d2e5422d58b
+      internalID: -1120963106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a600a50e11f545a6bc789e6bc05f3
+      internalID: 510970185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 70
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c4cccf3900d948970ccd5cd0b4c6c
+      internalID: 328323852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 96
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a5f3e4cd8e8a4a87c33f2b9afae06
+      internalID: 1995886161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_93
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 74
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562aa8e813977741bcef427a4c71c85
+      internalID: -733706526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_94
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 84
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ada0696a5d04429067885dce37c93
+      internalID: -342719198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_95
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 86
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369903fe70233040bbf72d1e8630c9e
+      internalID: 1588719678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_96
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 76
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad04d94413f21488fb232fe3c9c9d7
+      internalID: -199159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_97
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ade116b8d6b142a9985d1a5dec609
+      internalID: 1081894351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172ad3e00b6cf140a3849fba70fed5b
+      internalID: 605484859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb0dc96f119914c85debe2dd9701a6
+      internalID: -859081549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ef0f3e9b609b4a944492d019e7737
+      internalID: 1655706615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 48
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b0bdccf66afe49bdd350314174060
+      internalID: -2124134209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_102
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a16c2e57c87c4fa645c1671dfcee5
+      internalID: -88654834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 11
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e369990eea63e4f85346b58b1ef0fd
+      internalID: -448733232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 42
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec78b381cebaece4b9f8d95f0d70fd6c
+      internalID: 2032829157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_105
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b02dcf68473ef41a544aac9559dda7
+      internalID: -1432034753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_106
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 20
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c62ca6123548744a965d54680970fe
+      internalID: 1757195767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_107
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 52
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaedee37d900a4e40a97a73569c1aae4
+      internalID: -639260447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas medievales_108
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 13
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4cf6fe9accd6149aa12dfefd433b7f
+      internalID: -79836128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Armas medievales_3: 1820190857
+      Armas medievales_78: 1573250944
+      Armas medievales_36: 479531782
+      Armas medievales_18: -904574801
+      Armas medievales_71: -158044639
+      Armas medievales_87: 903564841
+      Armas medievales_106: 1757195767
+      Armas medievales_58: -587262823
+      Armas medievales_29: -308462128
+      Armas medievales_30: -1997943954
+      Armas medievales_15: 465615724
+      Armas medievales_68: 1403895266
+      Armas medievales_26: 46068555
+      Armas medievales_28: -1462374985
+      Armas medievales_45: 863027200
+      Armas medievales_1: -1479319862
+      Armas medievales_102: -88654834
+      Armas medievales_60: -212100092
+      Armas medievales_6: -546905996
+      Armas medievales_63: 114544275
+      Armas medievales_94: -342719198
+      Armas medievales_74: -28335057
+      Armas medievales_31: -403165282
+      Armas medievales_52: -1690942930
+      Armas medievales_73: 1077725356
+      Armas medievales_65: -755310413
+      Armas medievales_50: -1594448638
+      Armas medievales_8: -379824769
+      Armas medievales_7: -900492740
+      Armas medievales_0: 585127598
+      Armas medievales_19: 442427191
+      Armas medievales_61: -477039500
+      Armas medievales_93: -733706526
+      Armas medievales_12: -1124785082
+      Armas medievales_32: -397505248
+      Armas medievales_82: 583006521
+      Armas medievales_59: 1819947992
+      Armas medievales_84: -607977557
+      Armas medievales_11: 1428482873
+      Armas medievales_41: -76481756
+      Armas medievales_91: 328323852
+      Armas medievales_13: -1654942333
+      Armas medievales_83: -1799056167
+      Armas medievales_47: -351447870
+      Armas medievales_43: 1870696554
+      Armas medievales_49: -1179943541
+      Armas medievales_105: -1432034753
+      Armas medievales_35: -1994672290
+      Armas medievales_75: 328414016
+      Armas medievales_89: -1120963106
+      Armas medievales_100: 1655706615
+      Armas medievales_38: -285427814
+      Armas medievales_51: 1072818985
+      Armas medievales_4: 1272782496
+      Armas medievales_97: 1081894351
+      Armas medievales_16: 1543749824
+      Armas medievales_85: 910745280
+      Armas medievales_101: -2124134209
+      Armas medievales_23: -1315051451
+      Armas medievales_80: 791252898
+      Armas medievales_76: 2104627896
+      Armas medievales_81: 1828718254
+      Armas medievales_103: -448733232
+      Armas medievales_53: -820941381
+      Armas medievales_90: 510970185
+      Armas medievales_104: 2032829157
+      Armas medievales_25: -1913989220
+      Armas medievales_86: 702636967
+      Armas medievales_5: -2024731027
+      Armas medievales_42: 1006818146
+      Armas medievales_56: 1857918878
+      Armas medievales_64: 504257617
+      Armas medievales_70: -671505488
+      Armas medievales_17: -1491398888
+      Armas medievales_22: -1976874284
+      Armas medievales_40: 140614089
+      Armas medievales_88: -1828220070
+      Armas medievales_62: 364273084
+      Armas medievales_69: 1737568894
+      Armas medievales_10: 1950741321
+      Armas medievales_24: 104136531
+      Armas medievales_34: -901400352
+      Armas medievales_20: -658303711
+      Armas medievales_14: -947849355
+      Armas medievales_54: -1241375971
+      Armas medievales_99: -859081549
+      Armas medievales_67: -1694620041
+      Armas medievales_33: -430705398
+      Armas medievales_96: -199159879
+      Armas medievales_46: -1111908236
+      Armas medievales_44: -1375494695
+      Armas medievales_48: -724850223
+      Armas medievales_79: -35298030
+      Armas medievales_72: -819228120
+      Armas medievales_55: -1203419178
+      Armas medievales_95: 1588719678
+      Armas medievales_21: 3444207
+      Armas medievales_108: -79836128
+      Armas medievales_98: 605484859
+      Armas medievales_9: 2143320787
+      Armas medievales_57: 1102623591
+      Armas medievales_39: -1344758680
+      Armas medievales_2: 1112737267
+      Armas medievales_37: 215496095
+      Armas medievales_77: 1426740202
+      Armas medievales_66: 1062649766
+      Armas medievales_92: 1995886161
+      Armas medievales_27: -1843108486
+      Armas medievales_107: -639260447
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
