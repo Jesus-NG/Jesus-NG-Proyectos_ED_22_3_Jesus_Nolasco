@@ -34,7 +34,11 @@ public class Reproductor : MonoBehaviour
         }
 
         audioS.clip = ListaAudio[indice]; //Actualiza el valor del cli asignado a el AudioSource.
-        audioS.Play();
+
+        if (!audioS.isPlaying) // comprueba si actuamente no se esta reproduciendo el audioSource
+            // si comprueba que no hay reproducción entonces manda a darle play
+            audioS.Play();//refresca la reproducción del audio source
+
     }//Fin update
 
     //Aqui inician los metodos o funciones
@@ -56,5 +60,8 @@ public class Reproductor : MonoBehaviour
                 Debug.Log("Has regresado");
                 indice = 0; //Asigno a indice el ultimo valor coocido en la lista.
               }
+              audioS.Play();
     }
+
+    
 }//Fin de clase
