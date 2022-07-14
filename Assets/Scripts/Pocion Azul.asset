@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32fdc15b925d7ac439cfdfe5b7cc1d0e, type: 3}
   m_Name: Pocion Azul
   m_EditorClassIdentifier: 
-  nombre: Pocion Azu
+  nombre: Pocion Azul
   tipo: Magico
   precio: 100
   efecto: Salud
   datos:
-  - 
-  - 
-  - 
-  - 
+  - Pocion Azu
+  - Magico
+  - 100
+  - Salud

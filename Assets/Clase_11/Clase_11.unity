@@ -375,6 +375,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2514099986693873493, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099986693873493, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099986693873493, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2514099987610142162, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -462,6 +474,22 @@ PrefabInstance:
     - target: {fileID: 2514099987610142190, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
       propertyPath: m_Name
       value: CanvasMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099988002125692, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099988002125692, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099988002125692, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514099988002125692, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2514099988002125694, guid: 029cd32d8aa4e6a45b1ffea0839991c7, type: 3}
